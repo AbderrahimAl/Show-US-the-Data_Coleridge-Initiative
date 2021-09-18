@@ -5,10 +5,10 @@ We will be using natural language processing (NLP) to automate the discovery of 
 📌 Goal : The objective of the competition is to identify the mention of datasets within scientific publications.
 
 ### Notebook Content
-* [1. Importing necessary packages and libraries📚](#1)
-* [2. Loading the data ⌛](#2)
-* [3. Data Pre-Processing🔧](#4)
-* [4. Matching 📑](#4)
-* [5. Masked Language Modling  🤗](#5)
+* 1. Importing necessary packages and libraries📚
+* 2. Loading the data ⌛
+* 3. Data Pre-Processing🔧
+* 4. Matching 📑
+* 5. Masked Language Modling using HF 🤗 transformers
 
 

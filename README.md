@@ -8,7 +8,7 @@ We will be using natural language processing (NLP) to automate the discovery of 
 
 📌 Goal : The objective of the competition is to identify the mention of datasets within scientific publications.
 
-📚 You can Find the dataset From [Here](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/data).
+📚 You can Find the dataset [Here](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/data).
 
 ### Notebook Content
 * 1. Importing necessary packages and libraries📚
